@@ -1,12 +1,9 @@
 {
   "name": "data-report-sdk",
-  "version": "0.0.1",
-  "description": "TypeScript SDK 的模板项目",
+  "version": "1.0.2",
+  "description": "数据上报SDK",
+  "author": "IRIS",
   "license": "MIT",
-  "author": {
-    "name": "IRIS",
-    "email": "1819109014@qq.com"
-  },
   "main": "dist/index.js",
   "module": "dist/data-report-sdk.esm.js",
   "types": "dist/index.d.ts",
@@ -46,10 +43,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ruixijiejie/typescript-sdk-template"
+    "url": "git+https://github.com/ruixijiejie/data-report-sdk"
   },
   "bugs": {
-    "url": "https://github.com/ruixijiejie/typescript-sdk-template/issues"
+    "url": "https://github.com/ruixijiejie/data-report-sdk/issues"
   },
   "husky": {
     "hooks": {
